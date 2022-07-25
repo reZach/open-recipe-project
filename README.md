@@ -22,4 +22,4 @@ This is an _exploratory_ process while I do research if this process is feasible
 4. The recipe would be added to this Github project in a standard format.
 
 ## Do you want to be involved?
-This project is very much in it's early stages. If you are interested and/or would like to provide your expertise (legal, technical, culinary), I would encourage you to get involved.
+This project is very much in it's early stages. If you are interested and/or would like to provide your expertise (legal, technical, culinary), I would encourage you to [get involved](https://github.com/reZach/open-recipe-project/discussions).
