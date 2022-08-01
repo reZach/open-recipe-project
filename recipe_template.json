@@ -1,0 +1,32 @@
+{
+    "name": "RECIPE_NAME",
+    "description": "DESCRIPTION_OF_RECIPE",
+    "servings": "X",
+    "prepTime": "X minutes",
+    "cookTime": "X minutes",
+    "nutrition": {
+        "calories": "XXX",
+        "fat": "XXX",
+        "carbohydrates": "XXX"
+    },
+    "tools": [
+        "BOWL",
+        "OVEN_MITTS",
+        "ETC"
+    ],
+    "ingredients": {
+        "COMPONENT_1": [
+            "BUTTER",
+            "MILK"
+        ],
+        "COMPONENT_2": [
+            "EGGS",
+            "SUGAR"
+        ]
+    },
+    "steps": [
+        "STEP1",
+        "STEP2"
+    ],
+    "notes": "This recipe has been licensed as Public Domain. This recipe may be freely used or copied."
+}

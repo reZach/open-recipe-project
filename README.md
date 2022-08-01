@@ -14,11 +14,9 @@ This type of behavior makes my blood boil; you create a tool to scrape content f
 This isn't a complaint about BigOven, it is not hard to find many [other individuals](https://www.benawad.com/scraping-recipe-websites/) who have created their own web scrapers, and many other meal apps also [engage in this practice](https://www.paprikaapp.com/help/android/#clippingrecipesonline). I can be a purist, and I believe there is an opportunity for a better solution that benefits everyone that fits within our current laws.
 
 ## How?
-This is an _exploratory_ process while I do research if this process is feasible. 
-
-1. Reach out to culinary schools and get interested individuals who would like to contribute a recipe to this project.
+1. Post job offers on Upwork and get interested individuals who would like to contribute a recipe to this project.
 2. Individuals who create a recipe would be paid for their time and expertise.
-3. Individuals would require to sign a legal document(?) that their recipe is original, agree to the responsibility they are liable if they are copying another's recipe, and to release their recipe (ingredient list, instructions, pictures?) into the public domain.
+3. Individuals would require to sign a document that their recipe is original, and agree to license their recipe (ingredient list, instructions, pictures) as public domain.
 4. The recipe would be added to this Github project in a standard format.
 
 ## Do you want to be involved?
