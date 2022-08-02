@@ -2,31 +2,113 @@
     "name": "RECIPE_NAME",
     "description": "DESCRIPTION_OF_RECIPE",
     "servings": "X",
-    "prepTime": "X minutes",
-    "cookTime": "X minutes",
-    "nutrition": {
-        "calories": "XXX",
-        "fat": "XXX",
-        "carbohydrates": "XXX"
+    "time": {
+        "prep": {
+            "count": "15",
+            "time": "minute"
+        },
+        "cook": {
+            "count": "35",
+            "time": "minute"
+        }
     },
-    "tools": [
-        "BOWL",
-        "OVEN_MITTS",
-        "ETC"
+    "nutrition": {
+        "calories": "400",
+        "fat": {
+            "total": {
+                "count": "9",
+                "unit": "gram"
+            },
+            "saturated": {
+                "count": "0",
+                "unit": "gram"
+            },
+            "trans": {
+                "count": "0",
+                "unit": "gram"
+            }
+        },
+        "cholesterol": {
+            "count": "0",
+            "unit": "milligram"
+        },
+        "sodium": {
+            "count": "10",
+            "unit": "milligram"
+        },
+        "carbohydrates": {
+            "count": "14",
+            "unit": "gram",
+            "fiber": {
+                "count": "1",
+                "unit": "gram"
+            },
+            "sugar": {
+                "total": "44",
+                "unit": "gram",
+                "added": {
+                    "count": "1",
+                    "unit": "gram"
+                }
+            }
+        },
+        "protein": {
+            "count": "5",
+            "unit": "gram"
+        },
+        "vitamins": [
+            {
+                "vitamin": "d",
+                "count": "2",
+                "unit": "microgram"
+            },
+            {
+                "vitamin": "iron",
+                "count": "8",
+                "unit": "milligram"
+            }
+        ]
+    },
+    "tools": [{
+            "tool": "bowl",
+            "count": "1"
+        },
+        {
+            "tool": "oven mitts",
+            "count": "2"
+        }
     ],
     "ingredients": {
-        "COMPONENT_1": [
-            "BUTTER",
-            "MILK"
+        "COMPONENT_1": [{
+                "count": "1",
+                "unit": "stick",
+                "food": "butter",
+                "notes": ["melted"]
+            },
+            {
+                "count": "8",
+                "unit": "oz",
+                "food": "milk",
+                "notes": []
+            }
         ],
-        "COMPONENT_2": [
-            "EGGS",
-            "SUGAR"
-        ]
+        "COMPONENT_2": [{
+            "count": "2",
+            "unit": null,
+            "food": "egg",
+            "notes": []
+        }, {
+            "count": "1",
+            "unit": "cup",
+            "food": "sugar",
+            "notes": []
+        }]
     },
     "steps": [
         "STEP1",
         "STEP2"
     ],
-    "notes": "This recipe has been licensed as Public Domain. This recipe may be freely used or copied."
+    "allergens": ["dairy"],
+    "notes": ["Is a tasty recipe for Christmas"],
+    "license": "CC0. This recipe has been licensed as Public Domain. This recipe may be freely used or copied."
 }
