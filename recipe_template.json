@@ -83,25 +83,25 @@
                 "count": "1",
                 "unit": "stick",
                 "food": "butter",
-                "notes": "melted"
+                "note": "melted"
             },
             {
                 "count": "8",
                 "unit": "oz",
                 "food": "milk",
-                "notes": null
+                "note": null
             }
         ],
         "COMPONENT_2": [{
             "count": "2",
             "unit": null,
             "food": "egg",
-            "notes": null
+            "note": null
         }, {
             "count": "1",
             "unit": "cup",
             "food": "sugar",
-            "notes": null
+            "note": null
         }]
     },
     "steps": [
