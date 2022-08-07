@@ -1,0 +1,205 @@
+{
+    "name": "Chipotle Fish Tacos with Fresh Mango Salsa and Shredded Cabbage Slaw",
+    "description": null,
+    "servings": "2",
+    "time": {
+        "prep": {
+            "count": "30",
+            "time": "minute"
+        },
+        "cook": {
+            "count": "20",
+            "time": "minute"
+        }
+    },
+    "nutrition": {
+        "calories": "190",
+        "fat": {
+            "count": "10",
+            "unit": "gram"
+        },
+        "sodium": {
+            "count": "500",
+            "unit": "milligram"
+        },
+        "carbohydrates": {
+            "count": "19",
+            "unit": "gram"
+        },
+        "protein": {
+            "count": "10",
+            "unit": "gram"
+        }
+    },
+    "tools": [{
+            "tool": "oven",
+            "count": "1",
+            "optional": false
+        },
+        {
+            "tool": "large bowl",
+            "count": "2",
+            "optional": false
+        },
+        {
+            "tool": "medium bowl",
+            "count": "1",
+            "optional": false
+        },
+        {
+            "tool": "small bowl",
+            "count": "1",
+            "optional": false
+        },        
+        {
+            "tool": "baking tray",
+            "count": "1",
+            "optional": false
+        },
+        {
+            "tool": "stove",
+            "count": "1",
+            "optional": true
+        },
+        {
+            "tool": "microwave",
+            "count": "1",
+            "optional": true
+        }
+    ],
+    "ingredients": {
+        "Chipotle Fish": [{
+                "count": "1",
+                "unit": "lb",
+                "food": "fish",
+                "note": "(cod, mahi mahi or shrimp)"
+            },
+            {
+                "count": "3",
+                "unit": "whole",
+                "food": "chipotle peppers",
+                "note": "in adobo"
+            },
+            {
+                "count": "0.5",
+                "unit": "whole",
+                "food": "lime",
+                "note": null
+            },
+            {
+                "count": "2",
+                "unit": "tbsp",
+                "food": "olive oil",
+                "note": null
+            },
+            {
+                "count": "1",
+                "unit": "tsp",
+                "food": "kosher salt",
+                "note": null
+            },
+            {
+                "count": "1",
+                "unit": "tsp",
+                "food": "ground cumin",
+                "note": null
+            },
+            {
+                "count": "1",
+                "unit": "tsp",
+                "food": "smoked paprika",
+                "note": null
+            }
+        ],
+        "Shredded Cabbage Slaw": [{
+            "count": "0.5",
+            "unit": "whole",
+            "food": "carrot",
+            "note": "peeled, cut into matchsticks"
+        }, {
+            "count": "0.25",
+            "unit": "head",
+            "food": "red cabbage",
+            "note": "shredded"
+        }, {
+            "count": "0.5",
+            "unit": "whole",
+            "food": "poblano pepper",
+            "note": "cut into matchsticks"
+        }, {
+            "count": "0.5",
+            "unit": "bunch",
+            "food": "cilantro",
+            "note": "minced"
+        }, {
+            "count": "0.25",
+            "unit": "cup",
+            "food": "mayonnaise",
+            "note": "cut into matchsticks"
+        }, {
+            "count": "1",
+            "unit": "tsp",
+            "food": "honey",
+            "note": null
+        }, {
+            "count": "2",
+            "unit": "cracks",
+            "food": "black pepper",
+            "note": null
+        }],
+        "Fresh Mango Salsa": [{
+            "count": "2",
+            "unit": "whole",
+            "food": "mango",
+            "note": "peeled and diced"
+        }, {
+            "count": "0.25",
+            "unit": "whole",
+            "food": "small red onion",
+            "note": "minced"
+        }, {
+            "count": "0.5",
+            "unit": "whole",
+            "food": "jalapeno pepper",
+            "note": "diced"
+        }, {
+            "count": "1",
+            "unit": "tsp",
+            "food": "kosher salt",
+            "note": null
+        }, {
+            "count": "2",
+            "unit": "cracks",
+            "food": "black pepper",
+            "note": null
+        }],
+        "__generic": [{
+            "count": "0.5",
+            "unit": "whole",
+            "food": "avocado",
+            "note": "pitted, skin removed and sliced"
+        }, {
+            "count": "4",
+            "unit": "whole",
+            "food": "corn tortillas",
+            "note": null
+        }]
+    },
+    "steps": [
+        "(Making the Chipotle Fish) Preheat the oven to 375F.",
+        "Combine chipotle peppers in adobo, juice of half of a lime, 2 Tbsp olive oil, 1 tsp kosher salt, 1 tsp cumin, and 1 tsp smoked paprika in a bowl.",
+        "Combine with 1 lb of fish or shrimp and let marinate for at least 30 minutes.",
+        "When ready, line a baking tray with parchment or foil and add marinated fish.",
+        "Bake until the fish reaches a minimum internal temperature of 145F and begins to flake, about 15-20 minutes - remove when done.",
+        "(Making the Shredded Cabbage Slaw) Add carrots, cabbage and peppers to a mixing bowl.",
+        "In a smaller bowl, combine mayo, half of the chopped cilantro, 1 tsp kosher salt, 1 tsp cumin, 1 tsp smoked paprika, honey,and a few cracks of black pepper - stir to create a dressing.",
+        "Toss vegetables in the slaw dressing until thoroughly combined and refrigerate for 20 minutes before serving.",
+        "(Making the Fresh Mango Salsa) Combine diced mango, half of the cilantro, minced onion, diced jalapeno, 1 tsp kosher salt and a few cracks of black pepper. Mix and refrigerate for 15-20 minutes before serving.",        
+        "(Preparing the tacos) Heat corn tortillas in the microwave for 20-30 seconds or in a hot pan until warmed through.",
+        "Place a few pieces of flaked fish, quarter of the sliced avocado, a few spoonfuls of mango salsa and cabbage.",
+        "Top with a squeeze of fresh lime and enjoy!"
+    ],
+    "allergens": ["seafood"],
+    "notes": ["Nutrition information is for 1 taco"],
+    "license": "CC0. This recipe and associated image has been licensed as Public Domain. This recipe and associated image may be freely used or copied."
+}

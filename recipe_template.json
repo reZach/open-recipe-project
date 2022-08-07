@@ -15,67 +15,31 @@
     "nutrition": {
         "calories": "400",
         "fat": {
-            "total": {
-                "count": "9",
-                "unit": "gram"
-            },
-            "saturated": {
-                "count": "0",
-                "unit": "gram"
-            },
-            "trans": {
-                "count": "0",
-                "unit": "gram"
-            }
-        },
-        "cholesterol": {
-            "count": "0",
-            "unit": "milligram"
+            "count": "10",
+            "unit": "gram"
         },
         "sodium": {
             "count": "10",
             "unit": "milligram"
         },
         "carbohydrates": {
-            "count": "14",
-            "unit": "gram",
-            "fiber": {
-                "count": "1",
-                "unit": "gram"
-            },
-            "sugar": {
-                "total": "44",
-                "unit": "gram",
-                "added": {
-                    "count": "1",
-                    "unit": "gram"
-                }
-            }
+            "count": "10",
+            "unit": "gram"
         },
         "protein": {
             "count": "5",
             "unit": "gram"
-        },
-        "vitamins": [
-            {
-                "vitamin": "d",
-                "count": "2",
-                "unit": "microgram"
-            },
-            {
-                "vitamin": "iron",
-                "count": "8",
-                "unit": "milligram"
-            }
-        ]
+        }
     },
     "tools": [{
             "tool": "bowl",
-            "count": "1"
+            "count": "1",
+            "optional": false
         },
         {
             "tool": "oven mitts",
-            "count": "2"
+            "count": "2",
+            "optional": false
         }
     ],
     "ingredients": {
@@ -102,6 +66,12 @@
             "unit": "cup",
             "food": "sugar",
             "note": null
+        }],
+        "__generic": [{
+            "count": "2",
+            "unit": "cracks",
+            "food": "black pepper",
+            "note": null
         }]
     },
     "steps": [
@@ -110,5 +80,5 @@
     ],
     "allergens": ["dairy"],
     "notes": ["Is a tasty recipe for Christmas"],
-    "license": "CC0. This recipe has been licensed as Public Domain. This recipe may be freely used or copied."
+    "license": "CC0. This recipe and associated image has been licensed as Public Domain. This recipe and associated image may be freely used or copied."
 }
