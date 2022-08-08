@@ -1,185 +1,185 @@
 {
     "name": "Chipotle Fish Tacos with Fresh Mango Salsa and Shredded Cabbage Slaw",
     "description": null,
-    "servings": "2",
+    "servings": 2,
     "time": {
         "prep": {
-            "count": "30",
+            "count": 30,
             "time": "minute"
         },
         "cook": {
-            "count": "20",
+            "count": 20,
             "time": "minute"
         }
     },
     "nutrition": {
-        "calories": "190",
+        "calories": 190,
         "fat": {
-            "count": "10",
+            "count": 10,
             "unit": "gram"
         },
         "sodium": {
-            "count": "500",
+            "count": 500,
             "unit": "milligram"
         },
         "carbohydrates": {
-            "count": "19",
+            "count": 19,
             "unit": "gram"
         },
         "protein": {
-            "count": "10",
+            "count": 10,
             "unit": "gram"
         }
     },
     "tools": [{
             "tool": "oven",
-            "count": "1",
+            "count": 1,
             "optional": false
         },
         {
             "tool": "large bowl",
-            "count": "2",
+            "count": 2,
             "optional": false
         },
         {
             "tool": "medium bowl",
-            "count": "1",
+            "count": 1,
             "optional": false
         },
         {
             "tool": "small bowl",
-            "count": "1",
+            "count": 1,
             "optional": false
         },        
         {
             "tool": "baking tray",
-            "count": "1",
+            "count": 1,
             "optional": false
         },
         {
             "tool": "stove",
-            "count": "1",
+            "count": 1,
             "optional": true
         },
         {
             "tool": "microwave",
-            "count": "1",
+            "count": 1,
             "optional": true
         }
     ],
     "ingredients": {
         "Chipotle Fish": [{
-                "count": "1",
+                "count": 1,
                 "unit": "lb",
                 "food": "fish",
                 "note": "(cod, mahi mahi or shrimp)"
             },
             {
-                "count": "3",
+                "count": 3,
                 "unit": "whole",
                 "food": "chipotle peppers",
                 "note": "in adobo"
             },
             {
-                "count": "0.5",
+                "count": 0.5,
                 "unit": "whole",
                 "food": "lime",
                 "note": null
             },
             {
-                "count": "2",
+                "count": 2,
                 "unit": "tbsp",
                 "food": "olive oil",
                 "note": null
             },
             {
-                "count": "1",
+                "count": 1,
                 "unit": "tsp",
                 "food": "kosher salt",
                 "note": null
             },
             {
-                "count": "1",
+                "count": 1,
                 "unit": "tsp",
                 "food": "ground cumin",
                 "note": null
             },
             {
-                "count": "1",
+                "count": 1,
                 "unit": "tsp",
                 "food": "smoked paprika",
                 "note": null
             }
         ],
         "Shredded Cabbage Slaw": [{
-            "count": "0.5",
+            "count": 0.5,
             "unit": "whole",
             "food": "carrot",
             "note": "peeled, cut into matchsticks"
         }, {
-            "count": "0.25",
+            "count": 0.25,
             "unit": "head",
             "food": "red cabbage",
             "note": "shredded"
         }, {
-            "count": "0.5",
+            "count": 0.5,
             "unit": "whole",
             "food": "poblano pepper",
             "note": "cut into matchsticks"
         }, {
-            "count": "0.5",
+            "count": 0.5,
             "unit": "bunch",
             "food": "cilantro",
             "note": "minced"
         }, {
-            "count": "0.25",
+            "count": 0.25,
             "unit": "cup",
             "food": "mayonnaise",
             "note": "cut into matchsticks"
         }, {
-            "count": "1",
+            "count": 1,
             "unit": "tsp",
             "food": "honey",
             "note": null
         }, {
-            "count": "2",
+            "count": 2,
             "unit": "cracks",
             "food": "black pepper",
             "note": null
         }],
         "Fresh Mango Salsa": [{
-            "count": "2",
+            "count": 2,
             "unit": "whole",
             "food": "mango",
             "note": "peeled and diced"
         }, {
-            "count": "0.25",
+            "count": 0.25,
             "unit": "whole",
             "food": "small red onion",
             "note": "minced"
         }, {
-            "count": "0.5",
+            "count": 0.5,
             "unit": "whole",
             "food": "jalapeno pepper",
             "note": "diced"
         }, {
-            "count": "1",
+            "count": 1,
             "unit": "tsp",
             "food": "kosher salt",
             "note": null
         }, {
-            "count": "2",
+            "count": 2,
             "unit": "cracks",
             "food": "black pepper",
             "note": null
         }],
         "__generic": [{
-            "count": "0.5",
+            "count": 0.5,
             "unit": "whole",
             "food": "avocado",
             "note": "pitted, skin removed and sliced"
         }, {
-            "count": "4",
+            "count": 4,
             "unit": "whole",
             "food": "corn tortillas",
             "note": null
