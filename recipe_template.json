@@ -43,31 +43,34 @@
         }
     ],
     "ingredients": {
-        "COMPONENT_1": [{
+        "headers": [{
+            "name": "COMPONENT_1",
+            "ingredients": [{
                 "count": 1,
                 "unit": "stick",
                 "food": "butter",
                 "note": "melted"
-            },
-            {
+            }, {
                 "count": 8,
                 "unit": "oz",
                 "food": "milk",
                 "note": null
-            }
-        ],
-        "COMPONENT_2": [{
-            "count": 2,
-            "unit": "whole",
-            "food": "egg",
-            "note": null
+            }]
         }, {
-            "count": 1,
-            "unit": "cup",
-            "food": "sugar",
-            "note": null
+            "name": "COMPONENT_2",
+            "ingredients": [{
+                "count": 2,
+                "unit": "whole",
+                "food": "egg",
+                "note": null
+            }, {
+                "count": 1,
+                "unit": "cup",
+                "food": "sugar",
+                "note": null
+            }]
         }],
-        "__generic": [{
+        "ungrouped": [{
             "count": 2,
             "unit": "cracks",
             "food": "black pepper",
