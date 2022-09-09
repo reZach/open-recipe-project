@@ -1,0 +1,168 @@
+{
+    "name": "Beef Shepherd's Pie with Rosemary Garlic Cauliflower Crust",
+    "description": null,
+    "servings": 6,
+    "time": {
+        "prep": {
+            "count": 15,
+            "time": "minute"
+        },
+        "cook": {
+            "count": 55,
+            "time": "minute"
+        }
+    },
+    "nutrition": {
+        "calories": 470,
+        "fat": {
+            "count": 28,
+            "unit": "gram"
+        },
+        "sodium": {
+            "count": 520,
+            "unit": "milligram"
+        },
+        "carbohydrates": {
+            "count": 36,
+            "unit": "gram"
+        },
+        "protein": {
+            "count": 21,
+            "unit": "gram"
+        }
+    },
+    "tools": [{
+            "tool": "bowl",
+            "count": 1,
+            "optional": false
+        },
+        {
+            "tool": "oven mitts",
+            "count": 2,
+            "optional": false
+        }
+    ],
+    "ingredients": {
+        "headers": [{
+            "name": "Crust",
+            "ingredients": [{
+                "count": 1,
+                "unit": "lb",
+                "food": "cauliflower florets",
+                "note": null
+            }, {
+                "count": 1,
+                "unit": "lb",
+                "food": "yukon gold potato",
+                "note": "peeled, quartered"
+            }, {
+                "count": 6,
+                "unit": "whole",
+                "food": "garlic clove",
+                "note": "sliced"
+            }, {
+                "count": 2,
+                "unit": "sprig",
+                "food": "rosemary",
+                "note": null
+            }, {
+                "count": 0.25,
+                "unit": "cup",
+                "food": "olive oil",
+                "note": null
+            }]
+        }, {
+            "name": "Filling",
+            "ingredients": [{
+                "count": 1,
+                "unit": "lb",
+                "food": "ground beef",
+                "note": "85% lean / 15% fat"
+            }, {
+                "count": 2,
+                "unit": "tbsp",
+                "food": "olive oil",
+                "note": null
+            }, {
+                "count": 2,
+                "unit": "cups",
+                "food": "button mushrooms",
+                "note": "diced"
+            }, {
+                "count": 0.5,
+                "unit": "whole",
+                "food": "yellow onion",
+                "note": "small diced"
+            }, {
+                "count": 1,
+                "unit": "whole",
+                "food": "carrot",
+                "note": "medium-sized; peeled, small diced"
+            }, {
+                "count": 2,
+                "unit": "ribs",
+                "food": "celery",
+                "note": "small diced"
+            }, {
+                "count": 1.5,
+                "unit": "cups",
+                "food": "corn kernels",
+                "note": "fresh or frozen"
+            }, {
+                "count": 1,
+                "unit": "sprig",
+                "food": "rosemary",
+                "note": "stemmed and finely minced"
+            }, {
+                "count": 3,
+                "unit": "tbsp",
+                "food": "tomato paste",
+                "note": null
+            }, {
+                "count": 2,
+                "unit": "tbsp",
+                "food": "all-purpose flour",
+                "note": null
+            }, {
+                "count": 2,
+                "unit": "cups",
+                "food": "beef stock",
+                "note": null
+            }, {
+                "count": 0.25,
+                "unit": "cup",
+                "food": "parsley",
+                "note": "minced"
+            }, {
+                "count": 2,
+                "unit": "",
+                "food": "black pepper",
+                "note": null
+            }, {
+                "count": 1,
+                "unit": "",
+                "food": "salt",
+                "note": null
+            }]
+        }],
+        "ungrouped": []
+    },
+    "steps": [
+        "Preheat the oven to 425F.",
+        "In a small saucepan, combine sliced garlic, whole sprigs of rosemary and olive oil over low heat - steep with preparing other components for about 15-20 minutes. Strain and resereve oil when ready.",
+        "Combine cauliflower florets and quaratered potato in a pot and cover with cold water. Season with a pinch of salt, bring to a boil annd let simmer until tender and can be easily mashed with a spoon - about 15-20 minutes.",
+        "While cauliflower and potatoes are cooking, preheat a larage cast iron skillet on medium-high heat, add 1 tbsp of olive oil and ground beef - cook until beef is heavily browned - about 10-12 minutes.",
+        "Remove beef from pan, add 1 tbsp of olive oil and the remaining vegetables, except corn - season with a pinch of salt and black pepper. Saute vegetables until lightly browned yet still firm.",
+        "While vegetables are cooking, strain the cauliflower/potato mix and add to a stand mixer or large bowl. Whip until mixture is fluffy and smooth. Drizzle in the infused olive oil and season to taste with salt and black pepper - reserve while filling is prepared.",
+        "Once vegetables are browned, add minced rosemary - stir to combine.",
+        "Add tomato paste anad cook for 1 minute. Add all-purpose flour and cook for an additional minute.",
+        "Add beef stock, stir and allow mixture to come to a simmer and thicken slightly. You want the mixture to have absorbed the majority of the liquid while still a bit loose",
+        "Remove from heat, add corn, minced parsley and mix - season to taste.",
+        "Add dollops of the cauliflower mash on top of the filling and spread in an even layer - ensure crust goes to the edges of the pan to prevent filling from bubbling over.",
+        "Bake shepherd's pie in the oven for 25 minutes - finish with the broiler for the last 10 minutes until the top is golden brown.",
+        "Allow finished shepherd's pie to cool for 5 minutes. Serve with minced parsley and enjoy!"
+    ],
+    "allergens": [],
+    "notes": [],
+    "license": "CC0. This recipe and associated image has been licensed as Public Domain. This recipe and associated image may be freely used or copied."
+}
